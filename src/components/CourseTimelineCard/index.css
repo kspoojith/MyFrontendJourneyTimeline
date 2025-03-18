@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.course-section {
+  font-family: 'roboto';
+  width: 100%;
+}
+.course-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.course-head h1 {
+  font-size: 25px;
+  color: #171f46;
+}
+.course-head p {
+  font-size: 15px;
+}
+.duration {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.description {
+  font-size: 15px;
+  line-height: 25px;
+  color: #1e293b;
+}
+ul {
+  margin: 0px;
+  padding: 0px;
+  display: flex;
+  flex-wrap: wrap;
+}
+li {
+  background-color: #cddeef;
+  padding: 7px;
+  margin-right: 8px;
+  margin-bottom: 8px;
+  font-weight: 600;
+  border-radius: 5px;
+}

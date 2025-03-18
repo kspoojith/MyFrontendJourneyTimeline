@@ -1,0 +1,35 @@
+/* Write your CSS here */
+.project-img {
+  width: 100%;
+}
+.course-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.course-head h1 {
+  font-size: 25px;
+  color: #171f46;
+}
+.course-head p {
+  font-size: 15px;
+}
+.duration {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+.project-section {
+  font-family: 'roboto';
+}
+.description {
+  font-size: 15px;
+  line-height: 25px;
+  color: #1e293b;
+}
+.visit-link {
+  color: #0967d2;
+  text-decoration: none;
+  font-size: 17px;
+  font-weight: 500;
+}
